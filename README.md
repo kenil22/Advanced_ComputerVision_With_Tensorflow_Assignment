@@ -1,5 +1,3 @@
-Soon, I'll be pushing some jupyter notebooks which will cover the basic concepts of Computer Vision.
-
 1. **Assignment_Bird_Boxes.ipynb** :- This notebook contains the code for object localization concept. It is explained using the dataset [CalTech-2010](https://www.vision.caltech.edu/datasets/). This is just the sample flow of how object localization works. In real-world, anyone can modify this code based on their requirement.
 2. **Assignment_Zombie_Detector.ipynb** :- This notebook contains the code for modifying the RetinaNet architecture for single class and then restoring checkpoint . All steps are performed using **tensorflow** inbuilt functions to fine-tune classification layer on custom dataset of 5 images. 
 3. **Assignment_Image_Segmentation_of_MNIST_Dataset.ipynb** :- This notebook contains the code which explains how the Segmentation Model architecture is build and what type of flow actually that follows in order to get the pixels of the image segmented.
